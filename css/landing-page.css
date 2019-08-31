@@ -127,9 +127,9 @@ footer.footer {
 }
 
 .outer-box {
-  margin: 2em 1em 2em 1em;
-  padding: 1em 1em 0em 1em;
-  border: 1px solid #D8D8D8;
+  margin: 1rem 0rem 1rem 0rem;
+  padding: 1rem 1rem 0rem 1rem;
+  border: 0.1rem solid #D8D8D8;
   height: 85%;
   width: 95%;
 }
