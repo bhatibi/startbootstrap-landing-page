@@ -21,7 +21,7 @@ h6 {
 header.masthead {
   position: relative;
   background-color: #343a40;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
+  /*background: url("../img/bg-masthead.jpg") no-repeat center center;*/
   background-size: cover;
   padding-top: 8rem;
   padding-bottom: 8rem;
@@ -67,7 +67,7 @@ header.masthead h1 {
 }
 
 .features-icons {
-  padding-top: 7rem;
+  padding-top: 2rem;
   padding-bottom: 7rem;
 }
 
@@ -124,4 +124,12 @@ header.masthead h1 {
 footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
+}
+
+.outer-box {
+  margin: 2em 1em 2em 1em;
+  padding: 2em 0em 1em 0em;
+  border: 1px solid #D8D8D8;
+  height: 85%;
+  width: 100%;
 }
